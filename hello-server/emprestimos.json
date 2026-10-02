@@ -1,0 +1,12 @@
+[
+	{ "id": 1, "nomeAluno": "Ana", "livro": "Clean Code", "devolvidoEm": null },
+	{ "id": 2, "nomeAluno": "Joao", "livro": "Pai rico, pai pobre", "devolvidoEm": null },
+	{ "id": 3, "nomeAluno": "Paulo", "livro": "Alice no pais das maravilhas", "devolvidoEm": null },
+	{ "id": 4, "nomeAluno": "Jaco", "livro": "O hobbit", "devolvidoEm": null },
+	{ "id": 5, "nomeAluno": "Carla", "livro": "O senhor dos aneis", "devolvidoEm": null },
+	{ "id": 6, "nomeAluno": "Carlos", "livro": "Metro", "devolvidoEm": null },
+	{ "id": 7, "nomeAluno": "Betania", "livro": "Crime e castigo", "devolvidoEm": null },
+	{ "id": 8, "nomeAluno": "Estevao", "livro": "1984", "devolvidoEm": null },
+	{ "id": 9, "nomeAluno": "Erminha", "livro": "Maze runner", "devolvidoEm": null },
+	{ "id": 10, "nomeAluno": "Claudio", "livro": "Hary potter", "devolvidoEm": null }
+]
